@@ -1,0 +1,78 @@
+.container {
+   
+
+   .navbar{
+    width: 100%;
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    padding: 2rem;
+    margin: 1rem;
+   
+
+    }.Selection{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+    text-align: center;
+
+
+   }.Card{
+       display: center;
+       background-color: royalblue;
+       width: 7.5rem;
+       height: 2.5rem;
+
+   }.Selection-body-1{
+       background-color:rgb(65, 65, 65);
+
+   }.Selection-body-2{
+    background-color:rgb(61, 61, 61);
+
+}.Selection-body-3{
+    background-color:rgb(65, 65, 65);
+
+}.Selection-body-4{
+    background-color:rgb(61, 61, 61)
+
+}.Selection-body-5{
+    background-color:rgb(61, 61, 61)
+
+}.Selection-body-6{
+    background-color:rgb(61, 61, 61)
+
+}.koplo{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    text-align: center;
+   
+   }.koplo-1{
+    background-color: rgb(45, 243, 39);
+    text-align: center;
+    padding: 7.5rem;
+    margin: 1rem;
+    display: flex;
+    justify-content: space-around;
+   flex-direction: row;
+
+   }.koplo-2{
+    background-color: rgb(45, 243, 39);
+    text-align: left;
+    padding: 7.5rem;
+    margin: 1rem;
+    display: flex;
+    justify-content: space-around;
+   flex-direction: row;
+
+   }.netnot-1{
+    background-color: rgb(45, 243, 39);
+    text-align: left;
+    padding: 7.5rem;
+    margin: 1rem;
+    display: flex;
+    justify-content: space-around;
+   flex-direction: row;
+
+   }
+
+}
